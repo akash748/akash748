@@ -1,3 +1,5 @@
+
+<p><img align = "centre" alt = "gif" src = "https://github.com/akash748/LinearRegGif/blob/main/Lin.gif" width = "800" height = "320"/></p>
 <h1 align="center">Holla! 👋, I'm Akash Gupta</h1>
 <h3 align="center">A passionate Machine Learning Engineer from India</h3>
 
